@@ -14,3 +14,5 @@ composer install
 ``` bash
 vendor/phpunit/phpunit/phpunit tests/
 ```
+
+[![Build Status](https://travis-ci.org/organizacion-sesion-3-MiguelMJuanS/sesion5-1-travis.svg?branch=master)](https://travis-ci.org/organizacion-sesion-3-MiguelMJuanS/sesion5-1-travis)
